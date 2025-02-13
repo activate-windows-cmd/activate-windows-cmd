@@ -15,10 +15,6 @@
 
 ---
 
-- 📝 Copie o comando abaixo e cole na janela do CMD (admin):  
-- 📝 Copia el siguiente comando y pégalo en la ventana de CMD (admin):  
-- 📝 Copia o comando abaixo e cola na janela do CMD (admin):  
-
 ```bash
 @echo off
 net session >nul 2>&1
