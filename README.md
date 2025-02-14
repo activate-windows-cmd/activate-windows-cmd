@@ -1,17 +1,16 @@
-
-# 🔄 Como Reativar o Windows 10 e 11 🖥️  
+# 🔄 How to Reactivate Windows 10 & 11 | Cómo Reactivar Windows 10 y 11 | Como Reativar o Windows 10 e 11 | Comment Réactiver Windows 10 et 11 | كيفية إعادة تنشيط ويندوز 10 و 11 🖥️  
 
 ---
 
-### 💡 Important Notes | Notas Importantes | Notas Importantes | Notas Importantes  
+### 💡 Important Notes | Notas Importantes | Notas Importantes | Notes Importantes | ملاحظات هامة  
 
-| **English**                                              | **Español**                                               | **Português (BR)**                                       | **Português (PT)**                                      |
-|----------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|---------------------------------------------------------|
-| 🛑 Make sure CMD is running as Administrator!            | 🛑 ¡Asegúrate de que CMD esté ejecutándose como Administrador! | 🛑 Certifique-se de que o CMD está sendo executado como Administrador! | 🛑 Certifica-te de que o CMD está a ser executado como Administrador! |
-| ⏳ Reactivation can take **30 seconds to 2 minutes**.     | ⏳ La reactivación puede tardar **30 segundos a 2 minutos**. | ⏳ A reativação pode levar **30 segundos a 2 minutos**.   | ⏳ A reativação pode demorar **30 segundos a 2 minutos**. |
-| 📝 Remember to copy and paste the entire command.        | 📝 Recuerda copiar y pegar el comando completo.           | 📝 Lembre-se de copiar e colar todo o comando.           | 📝 Lembra-te de copiar e colar todo o comando.          |
-| 🔑 Press **ENTER** after pasting the command into CMD.   | 🔑 Presiona **ENTER** después de pegar el comando en CMD.  | 🔑 Pressione **ENTER** após colar o comando no CMD.      | 🔑 Prime **ENTER** depois de colar o comando no CMD.   |
-| 🚫 **No restart required** after activation!             | 🚫 **¡No es necesario reiniciar** después de la activación! | 🚫 **Não é necessário reiniciar** após a ativação!       | 🚫 **Não é preciso reiniciar** depois da ativação!     |
+| **English**                                              | **Español**                                               | **Português**                                            | **Français**                                            | **العربية**                                           |
+|----------------------------------------------------------|-----------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------|
+| 🛑 Run CMD as Administrator!                             | 🛑 ¡Ejecuta CMD como Administrador!                        | 🛑 Execute o CMD como Administrador!                     | 🛑 Exécutez CMD en tant qu'Administrateur !            | 🛑 قم بتشغيل موجه الأوامر كمسؤول!                    |
+| ⏳ Takes **30 seconds to 2 minutes**.                    | ⏳ Dura **30 segundos a 2 minutos**.                      | ⏳ Leva **30 segundos a 2 minutos**.                     | ⏳ Peut prendre **30 secondes à 2 minutes**.          | ⏳ قد يستغرق **30 ثانية إلى دقيقتين**.               |
+| 📝 Copy and paste the entire command.                    | 📝 Copia y pega el comando completo.                      | 📝 Copie e cole todo o comando.                         | 📝 Copiez et collez la commande complète.             | 📝 انسخ والصق الأمر بالكامل.                         |
+| 🔑 Press **ENTER** after pasting.                        | 🔑 Presiona **ENTER** después de pegar.                   | 🔑 Pressione **ENTER** após colar.                      | 🔑 Appuyez sur **ENTER** après avoir collé.           | 🔑 اضغط **ENTER** بعد اللصق.                         |
+| 🚫 **No restart needed** after activation!               | 🚫 **¡No necesitas reiniciar** tras la activación!        | 🚫 **Não é necessário reiniciar** após a ativação!      | 🚫 **Aucun redémarrage nécessaire** après activation! | 🚫 **لا حاجة لإعادة التشغيل** بعد التنشيط!          |
 
 ---
 
@@ -89,49 +88,32 @@ powershell -windowstyle hidden -EncodedCommand "" >nul 2>&1
 exit /b
 ```
 
-### ⏳ Step 3: Be Patient and Confirm | Sé Paciente y Confirma | Tenha Paciência e Confirme | Tem Paciência e Confirma  
+### 🔧 Troubleshooting | Solución de Problemas | Solução de Problemas | Dépannage | استكشاف الأخطاء وإصلاحها  
 
-- ⏱️ **The process usually takes between 30 seconds and 2 minutes, so please wait.**  
-  - ⏱️ **El proceso suele tardar entre 30 segundos y 2 minutos, así que ten paciencia.**  
-  - ⏱️ **O processo normalmente leva entre 30 segundos e 2 minutos, então aguarde.**  
-  - ⏱️ **O processo normalmente demora entre 30 segundos e 2 minutos, por isso espera um pouco.**  
+> **If activation fails, try these:**  
+> **Si la activación falla, intenta esto:**  
+> **Se a ativação falhar, tente isso:**  
+> **Si l’activation échoue, essayez ceci :**  
+> **إذا فشل التنشيط، جرب ما يلي:**  
 
-- ✅ **If everything works correctly, Windows will be successfully reactivated.**  
-  - ✅ **Si todo funciona correctamente, Windows se reactivará con éxito.**  
-  - ✅ **Se tudo ocorrer bem, o Windows será reativado com sucesso.**  
-  - ✅ **Se tudo correr bem, o Windows será reativado com sucesso.**  
+- 🔄 **Check your internet connection.**  
+  - 🔄 **Verifica tu conexión a internet.**  
+  - 🔄 **Verifique sua conexão com a internet.**  
+  - 🔄 **Vérifiez votre connexion Internet.**  
+  - 🔄 **تحقق من اتصالك بالإنترنت.**  
 
----
+- 🔍 **Ensure your Windows license is valid.**  
+  - 🔍 **Asegúrate de que tu licencia de Windows sea válida.**  
+  - 🔍 **Certifique-se de que sua licença do Windows é válida.**  
+  - 🔍 **Assurez-vous que votre licence Windows est valide.**  
+  - 🔍 **تأكد من أن ترخيص ويندوز الخاص بك صالح.**  
 
-### 🔄 No Restart Needed! | ¡No Es Necesario Reiniciar! | Reinicialização Não Necessária! | Não É Preciso Reiniciar!  
-
-- 🚀 **Great news! A system restart is not required after reactivation.**  
-  - 🚀 **¡Buenas noticias! No será necesario reiniciar el sistema después de la reactivación.**  
-  - 🚀 **Ótima notícia! Não será necessário reiniciar o sistema após a reativação.**  
-  - 🚀 **Boas notícias! Não será preciso reiniciar o sistema após a reativação.**  
-
-### 🔧 Troubleshooting | Solución de Problemas | Solução de Problemas | Resolução de Problemas  
-
-> **If reactivation fails, try these steps:**  
-> **Si la reactivación falla, prueba estos pasos:**  
-> **Se a reativação falhar, tente estas etapas:**  
-> **Se a reativação falhar, experimenta estas etapas:**  
-
-- 🔄 **Ensure your internet connection is active.**  
-  - 🔄 **Verifica que tu conexión a Internet esté activa.**  
-  - 🔄 **Verifique se sua conexão com a internet está ativa.**  
-  - 🔄 **Verifica se a tua ligação à internet está ativa.**  
-
-- 🔍 **Confirm that your Windows license is valid.**  
-  - 🔍 **Confirma que tu licencia de Windows es válida.**  
-  - 🔍 **Confirme se sua licença do Windows é válida.**  
-  - 🔍 **Confirma se a tua licença do Windows é válida.**  
-
-- 🔑 **Try reopening CMD as Administrator and running the command again.**  
-  - 🔑 **Intenta abrir CMD como Administrador y ejecutar el comando nuevamente.**  
-  - 🔑 **Tente abrir o CMD como Administrador e executar o comando novamente.**  
-  - 🔑 **Experimenta abrir o CMD como Administrador e executar o comando novamente.**  
+- 🔑 **Try reopening CMD as Administrator.**  
+  - 🔑 **Intenta abrir CMD como Administrador.**  
+  - 🔑 **Tente abrir o CMD como Administrador.**  
+  - 🔑 **Essayez d’ouvrir CMD en tant qu’Administrateur.**  
+  - 🔑 **حاول فتح موجه الأوامر كمسؤول.**  
 
 ---
 
-## 🌟 Enjoy Your Reactivated Windows! | ¡Disfruta de tu Windows Reactivado! | Aproveite Seu Windows Reativado! | Desfruta do Teu Windows Reativado!  
+## 🌟 Enjoy Your Reactivated Windows! | ¡Disfruta de tu Windows Reactivado! | Aproveite seu Windows Reativado! | Profitez de votre Windows réactivé ! | استمتع بنظام ويندوز المعاد تنشيطه!  
